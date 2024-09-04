@@ -1,0 +1,12 @@
+¿Cuál es el punto más débil de PGP?
+el cifrado simetrico 
+
+¿Cuándo es conveniente utilizar solamente cifrado simétrico?
+en entornos de confianza
+
+¿En qué consiste el ciclo de vida del desarrollo de software seguro (etapa por etapa)?
+planificacion 
+diseño
+implementacion 
+pruebas
+deployment
